@@ -10,4 +10,4 @@ Comando para usar el bot:
 !infoplaca ejemplo
 
 
-Gracias a <a target="_blank" href="https://www.habbo-happy.net/">
+Gracias a <a target="_blank" href="https://www.habbo-happy.net/">https://www.habbo-happy.net/</a>
