@@ -19,7 +19,7 @@ async def infoplaca(ctx, *, placa): #Comando a decir
 
     DescripcionPlaca = infoplaca.find("div", class_="subheadline").text
 
-    embed = discord.Embed(title="", description="•Nombre🡺 " + f"{NombrePlaca}" + "\n•Descripcion🡺 " + f"{DescripcionPlaca}" + "\n•Código🡺 " f"{placa.upper()}")
+    embed = discord.Embed(title="", description="•Nombre🡺 " + f"{NombrePlaca}" + "\n\n•Descripcion🡺 " + f"{DescripcionPlaca}" + "\n\n•Código🡺 " f"{placa.upper()}")
     embed.set_thumbnail(url="https://images.habbo.com/c_images/album1584/" f"{placa.upper()}.png")
     embed.set_author(name="información placa", icon_url="https://i.imgur.com/grmS8RH.png")
 
