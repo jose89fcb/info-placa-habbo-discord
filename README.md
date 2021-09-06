@@ -7,7 +7,7 @@ Este BOT saca la información de cada placa de habbo...
 
 Comando para usar el bot:
 <br>
-!infoplaca ejemplo
+<b>!infoplaca ejemplo</b>
 
 
 Gracias a <a target="_blank" href="https://www.habbo-happy.net/">habbo-happy</a>
